@@ -1,0 +1,41 @@
+/***************TAG SELECTORS***********/
+
+h1 {
+    color: red;
+    font-size: 200px;
+}
+
+
+
+
+img:hover {
+    background-color:gold;
+}
+
+
+
+/*********************CLASS SELECTORS*************/
+
+.bacon {
+    background-color: green;
+}
+
+.brocli {
+    background-color: rgb(250, 55, 6);
+}
+
+.circular {
+    border-radius: 100%;
+}
+
+
+/********************ID SELECTORS***************/
+
+
+#heading {
+    color: rgb(255, 0, 64);
+}
+
+#big {
+    font-size: 1000px;
+}
