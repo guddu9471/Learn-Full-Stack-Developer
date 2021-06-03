@@ -1,3 +1,55 @@
-body{
-    background-color: blue;
+body {
+    margin: 0;
+    text-align: center;
+    font-family: 'Merriweather',serif;
+}
+
+
+h1 {
+    
+    margin: 0;
+    font-family: 'Sacramento', cursive;
+}
+h2 {
+   font-family: 'Montserrat', sans-serif;
+}
+h3 {
+   font-family: 'Montserrat', sans-serif;
+}
+.top-container {
+    background-color: rgb(239, 248, 248);
+    position: relative;
+    padding-top: 100px;
+}
+
+.middle-container {
+    background-color: crimson;
+    width: 200px;
+    height: 200px;
+}
+
+.bottom-container {
+    background-color: darkgreen;
+    width: 200px;
+    height: 200px;
+}
+
+.pro {
+    text-decoration: underline;
+}
+
+.top-cloud {
+    position: absolute;
+    right: 300px;
+    top: 50px;
+    width: 20%;
+      
+}
+
+.bottom-cloud {
+ position: absolute;
+ left: 30px;
+ bottom: 30px;
+ width: 20%;
+ 
 }
